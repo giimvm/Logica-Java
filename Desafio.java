@@ -26,8 +26,7 @@ public class Desafio {
                     3- Transferir valor
                     4- Sair
                     
-                    Digite a opção desejada: 
-                    """);
+                    Digite a opção desejada:""");
 
             int opcao = leitura.nextInt();
 
